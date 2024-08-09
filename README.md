@@ -9,7 +9,7 @@ This exporter was built for and tested on IBM i as a way to monitor IBM i system
 As such, its out-of-box-experience is centered around the IBM i use case.
 
 - [Installation and Startup](#installation-and-startup)
-  - [Known Breatking Changes](#known-breaking-changes)
+  - [Known Breaking Changes](#known-breaking-changes)
   - [Using another JDBC driver](#using-another-jdbc-driver)
   - [Using the `nohup` utility](#using-the-nohup-utility)
 - [Running on a different port](#running-on-a-different-port)
